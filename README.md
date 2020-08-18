@@ -1,5 +1,7 @@
 # WBO
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2abd9163ac514bf99c4697c99d489bcc)](https://app.codacy.com/manual/gustavosandesilva/whitebophir?utm_source=github.com&utm_medium=referral&utm_content=Gustavosande/whitebophir&utm_campaign=Badge_Grade_Dashboard)
+
 WBO is an online collaborative whiteboard that allows many users to draw simultaneously on a large virtual board.
 The board is updated in real time for all connected users, and its state is always persisted. It can be used for many different purposes, including art, entertainment, design, teaching.
 
